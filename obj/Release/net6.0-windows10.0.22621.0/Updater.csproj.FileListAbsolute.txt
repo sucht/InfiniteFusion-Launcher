@@ -1,0 +1,19 @@
+C:\Users\Drap\Desktop\Debug\Release\net6.0-windows10.0.22621.0\Updater.exe
+C:\Users\Drap\Desktop\Debug\Release\net6.0-windows10.0.22621.0\Updater.deps.json
+C:\Users\Drap\Desktop\Debug\Release\net6.0-windows10.0.22621.0\Updater.runtimeconfig.json
+C:\Users\Drap\Desktop\Debug\Release\net6.0-windows10.0.22621.0\Updater.dll
+C:\Users\Drap\source\repos\Pokémon Infinite Fusion Launcher (WPF)\Updater\obj\Release\net6.0-windows10.0.22621.0\Updater.csproj.AssemblyReference.cache
+C:\Users\Drap\source\repos\Pokémon Infinite Fusion Launcher (WPF)\Updater\obj\Release\net6.0-windows10.0.22621.0\MainWindow.baml
+C:\Users\Drap\source\repos\Pokémon Infinite Fusion Launcher (WPF)\Updater\obj\Release\net6.0-windows10.0.22621.0\MainWindow.g.cs
+C:\Users\Drap\source\repos\Pokémon Infinite Fusion Launcher (WPF)\Updater\obj\Release\net6.0-windows10.0.22621.0\App.g.cs
+C:\Users\Drap\source\repos\Pokémon Infinite Fusion Launcher (WPF)\Updater\obj\Release\net6.0-windows10.0.22621.0\Updater_MarkupCompile.cache
+C:\Users\Drap\source\repos\Pokémon Infinite Fusion Launcher (WPF)\Updater\obj\Release\net6.0-windows10.0.22621.0\Updater.g.resources
+C:\Users\Drap\source\repos\Pokémon Infinite Fusion Launcher (WPF)\Updater\obj\Release\net6.0-windows10.0.22621.0\Updater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drap\source\repos\Pokémon Infinite Fusion Launcher (WPF)\Updater\obj\Release\net6.0-windows10.0.22621.0\Updater.AssemblyInfoInputs.cache
+C:\Users\Drap\source\repos\Pokémon Infinite Fusion Launcher (WPF)\Updater\obj\Release\net6.0-windows10.0.22621.0\Updater.AssemblyInfo.cs
+C:\Users\Drap\source\repos\Pokémon Infinite Fusion Launcher (WPF)\Updater\obj\Release\net6.0-windows10.0.22621.0\Updater.csproj.CoreCompileInputs.cache
+C:\Users\Drap\source\repos\Pokémon Infinite Fusion Launcher (WPF)\Updater\obj\Release\net6.0-windows10.0.22621.0\Updater.csproj.CopyComplete
+C:\Users\Drap\source\repos\Pokémon Infinite Fusion Launcher (WPF)\Updater\obj\Release\net6.0-windows10.0.22621.0\Updater.dll
+C:\Users\Drap\source\repos\Pokémon Infinite Fusion Launcher (WPF)\Updater\obj\Release\net6.0-windows10.0.22621.0\refint\Updater.dll
+C:\Users\Drap\source\repos\Pokémon Infinite Fusion Launcher (WPF)\Updater\obj\Release\net6.0-windows10.0.22621.0\Updater.genruntimeconfig.cache
+C:\Users\Drap\source\repos\Pokémon Infinite Fusion Launcher (WPF)\Updater\obj\Release\net6.0-windows10.0.22621.0\ref\Updater.dll
