@@ -1,1 +1,0 @@
-The contents of these folders can be put into Pokémon Infinite Fusion\Graphics\Pictures to overwrite the files already present.
