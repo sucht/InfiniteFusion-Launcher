@@ -9,12 +9,27 @@
       "Pokémon Infinite Fusion Launcher/1.0.0": {
         "dependencies": {
           "Discord.Net": "3.11.0",
+          "Discord.Net.WebSocket": "3.11.0",
           "DiscordRichPresence": "1.2.1.24",
           "Hardcodet.NotifyIcon.Wpf": "1.1.0",
-          "Octokit": "7.1.0"
+          "Newtonsoft.Json": "13.0.2",
+          "Octokit": "7.1.0",
+          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.22621.29"
         },
         "runtime": {
           "Pokémon Infinite Fusion Launcher.dll": {}
+        }
+      },
+      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.22621.29": {
+        "runtime": {
+          "Microsoft.Windows.SDK.NET.dll": {
+            "assemblyVersion": "10.0.22621.24",
+            "fileVersion": "10.0.22621.29"
+          },
+          "WinRT.Runtime.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.3.42921"
+          }
         }
       },
       "Discord.Net/3.11.0": {
@@ -176,7 +191,7 @@
       },
       "System.Reactive/5.0.0": {
         "runtime": {
-          "lib/net5.0/System.Reactive.dll": {
+          "lib/net5.0-windows10.0.19041/System.Reactive.dll": {
             "assemblyVersion": "5.0.0.0",
             "fileVersion": "5.0.0.1"
           }
@@ -199,6 +214,11 @@
   "libraries": {
     "Pokémon Infinite Fusion Launcher/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.22621.29": {
+      "type": "runtimepack",
       "serviceable": false,
       "sha512": ""
     },
