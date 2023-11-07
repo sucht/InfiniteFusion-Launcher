@@ -1,0 +1,45 @@
+{
+  "Donwload": [
+    {
+      "Game": [{
+        "Autheur": "infinitefusion",
+        "Repo": "infinitefusion-e18",
+        "Branche": "releases"
+      }]
+      "Update": [{
+        "Autheur": "DrapNard",
+        "Repo": "InfiniteFusion-Launcher",
+        "Branche": "Update"
+      }]
+    }],
+  "ButtonUI": [
+    {
+      "Discord": [{
+         "url": "https://discord.gg/infinitefusion",
+         "icon": "https://github.com/DrapNard/InfiniteFusion-Launcher/blob/ButtonConfig/discord-icon%20x500.png?raw=true"
+      }],
+      "Wiki": [{
+         "url": "https://infinitefusion.fandom.com/wiki/Pok%C3%A9mon_Infinite_Fusion_Wiki",
+         "icon": "https://github.com/DrapNard/InfiniteFusion-Launcher/blob/ButtonConfig/wiki-icon.png?raw=true"
+      }],
+      "Calculator": [{
+         "url": "https://aegide.gitlab.io/",
+         "icon": "https://github.com/DrapNard/InfiniteFusion-Launcher/blob/ButtonConfig/calculator-icon.png?raw=true"
+      }],
+      "Reddit": [{
+         "url": "https://www.reddit.com/r/PokemonInfiniteFusion/",
+         "icon": "https://github.com/DrapNard/InfiniteFusion-Launcher/blob/ButtonConfig/reddit-icon.png?raw=true"
+      }],
+      "PokéComunity": [{
+         "url": "https://www.pokecommunity.com/showthread.php?t=347883",
+         "icon": "https://github.com/DrapNard/InfiniteFusion-Launcher/blob/ButtonConfig/pokecommunity-icon.png?raw=true"
+      }],
+      "FusionDex": [{
+         "url": "",
+         "icon": "https://github.com/DrapNard/InfiniteFusion-Launcher/blob/ButtonConfig/pokedex-icon.png?raw=true"
+      }],
+     "GitHub": [{
+         "url": "https://github.com/DrapNard/InfiniteFusion-Launcher",
+         "icon": "https://github.com/DrapNard/InfiniteFusion-Launcher/blob/ButtonConfig/github-icon.png?raw=true"
+      }] 
+}
