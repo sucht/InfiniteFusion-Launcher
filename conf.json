@@ -6,17 +6,18 @@
         "Repo": "infinitefusion-e18",
         "Branche": "releases"
       }]
-      "Update": [{
-        "Autheur": "DrapNard",
-        "Repo": "InfiniteFusion-Launcher",
-        "Branche": "Update"
-      }]
     }],
   "ButtonUI": [
     {
       "Discord": [{
-         "url": "https://discord.gg/infinitefusion",
+        "pkmInfiniteFusion" : [{
+          "url": "https://discord.gg/infinitefusion",
          "icon": "https://github.com/DrapNard/InfiniteFusion-Launcher/blob/ButtonConfig/discord-icon%20x500.png?raw=true"
+        }],
+         "pkmInfiniteFusionShowdown" : [{
+          "url": "https://discord.gg/infinitefusion",
+         "icon": "https://github.com/DrapNard/InfiniteFusion-Launcher/blob/ButtonConfig/discord-icon%20x500.png?raw=true"
+        }]
       }],
       "Wiki": [{
          "url": "https://infinitefusion.fandom.com/wiki/Pok%C3%A9mon_Infinite_Fusion_Wiki",
